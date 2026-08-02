@@ -1,0 +1,6 @@
+# Without a theme, GitHub Pages serves the generated HTML with no styling at
+# all. jekyll-theme-primer is one of the themes GitHub hosts natively, so it
+# needs no Gemfile and no build setup - just this line.
+theme: jekyll-theme-primer
+title: Unscroll
+description: Legal documents for the Unscroll app
