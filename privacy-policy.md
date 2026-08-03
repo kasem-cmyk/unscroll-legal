@@ -81,7 +81,8 @@ We rely on your consent, given when you create an account and confirmed by your 
 | Recipient | What they receive | Why |
 |---|---|---|
 | **Supabase Inc.** | Everything listed in Section 3.1 to 3.3 | They host our database and authentication. Data is stored in the AWS ca-central-1 region (Montreal, Canada). |
-| **Apple** | Purchase and subscription events | Apple processes payments and tells us whether your subscription is active. |
+| **Apple** | Purchase and subscription events; your name and email if you choose "Sign in with Apple" | Apple processes payments and tells us whether your subscription is active. If you sign in with your Apple ID, Apple shares the name and email you approve so we can create your account. |
+| **RevenueCat, Inc.** | Your account identifier and subscription status | They manage subscription state on our behalf and tell our server when your subscription starts, renews or ends. |
 
 **Where your information is stored.** Our database is hosted by Supabase Inc. in the AWS `ca-central-1` region, which is located in Montreal, Quebec. **Your information is therefore stored in Canada, in Quebec.**
 
