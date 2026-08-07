@@ -4,7 +4,7 @@ title: Terms of Service
 
 # Terms of Service — Unscroll
 
-**Last updated:** August 1, 2026
+**Last updated:** August 7, 2026
 **Effective:** August 1, 2026
 
 By creating an account or using Unscroll, you agree to these Terms. If you do not agree, do not use the app.
@@ -44,11 +44,18 @@ Your use of Instagram, TikTok and YouTube through Unscroll remains governed by *
 
 You agree to use Unscroll only with accounts you own and only in ways permitted by the platform in question.
 
+**To be explicit, we are not responsible for:**
+
+- any change those platforms make to how they work or what they look like;
+- a decision by one of them to restrict, suspend or close your account;
+- what they choose to allow, remove or otherwise moderate on their own service;
+- an outage or slowdown on their end that has nothing to do with Unscroll.
+
 ## 3. Eligibility
 
 **You must be at least 13 years old to use Unscroll. If you are under 13, you are not permitted to use this app.** If we learn that an account belongs to someone under 13, we will delete that account and the information attached to it.
 
-If you are 13 or older but below the digital age of consent where you live — 14 in Quebec, and up to 16 in parts of the European Union — you also need permission from a parent or guardian to use Unscroll.
+If you are 13 or older but below the digital age of consent where you live — up to 16 in parts of the European Union — you also need permission from a parent or guardian to use Unscroll.
 
 You must also be able to enter into a binding contract.
 
@@ -60,14 +67,15 @@ You may close your account at any time. See Section 10.
 
 ## 5. Free and premium features
 
-Instagram filtering is available at no cost. TikTok, YouTube and certain other features require a **premium subscription**.
+Filtering for Instagram, TikTok and YouTube is available at no cost. A **premium subscription** unlocks additional settings on top of that free filtering — such as DM-only mode, hiding your YouTube watch history and playlists, and the scroll budget feature.
 
 - Subscriptions are **sold and billed by Apple** through your App Store account, at the price shown at the time of purchase.
 - Subscriptions **renew automatically** until cancelled. Your account is charged within 24 hours before the end of each period.
 - **You cancel through your Apple ID settings**, not in Unscroll. Cancelling stops future renewals; it does not retroactively refund the current period.
 - **Refunds are handled by Apple**, under Apple's policies. We cannot issue refunds for App Store purchases.
+- **You are responsible for any taxes** applicable to your subscription; Apple generally collects these as part of the purchase price.
 
-**Quebec consumers:** nothing in these Terms limits the rights you hold under the *Consumer Protection Act*, including any right of cancellation that Act provides.
+Nothing in these Terms limits any statutory consumer rights you hold under the law that applies to you, including any right of cancellation it provides.
 
 ## 6. What you may not do
 
@@ -75,8 +83,11 @@ You agree not to:
 
 - use Unscroll to access an account that is not yours, or to bypass a platform's authentication, rate limits or security measures;
 - extract, scrape, collect or redistribute content or data from the platforms through Unscroll;
-- resell, sublicense or share access to your premium subscription;
+- resell, sublicense or share access to your premium subscription, or otherwise exploit the app for unauthorized commercial purposes;
 - decompile or reverse-engineer the app except where the law expressly permits it;
+- access or use Unscroll through automated means (bots, scripts) rather than as an individual human user;
+- impersonate any person or entity, or misrepresent your affiliation with one;
+- upload, transmit or introduce any virus, malware or other harmful code through Unscroll;
 - use Unscroll for anything unlawful.
 
 ## 7. The statistics Unscroll displays are estimates
@@ -101,15 +112,15 @@ If you are struggling with compulsive social media use, or with your mental heal
 
 ### Our intellectual property
 
-Unscroll — its design, code and features, excluding third-party content — belongs to Kasem Kassir. You may not copy, modify, distribute or create derivative works from the app, or use our name or branding without permission.
+Unscroll — its design, code and features, excluding third-party content — belongs to us. You may not copy, modify, distribute or create derivative works from the app, or use our name or branding without permission.
 
-To the fullest extent permitted by applicable law, our total liability to you for any claim relating to Unscroll is limited to **the amount you paid us in the twelve months before the claim arose**. We are not liable for indirect, incidental or consequential damages, including loss of access to a third-party account.
+To the fullest extent permitted by applicable law, our total liability to you for any claim relating to Unscroll is limited to **the greater of the amount you paid us in the twelve months before the claim arose, or 50 CAD**. We are not liable for indirect, incidental or consequential damages, including loss of access to a third-party account.
 
-**Nothing in this section excludes liability that cannot be excluded by law**, including under Quebec's *Consumer Protection Act* and the *Civil Code of Québec*.
+**Nothing in this section excludes liability that cannot be excluded by applicable law.**
 
 ## 10. Ending these Terms
 
-You may stop using Unscroll and close your account at any time by contacting m.bows@outlook.com.
+You may stop using Unscroll and close your account at any time, in the app, via Settings → Delete account. This is immediate and permanent.
 
 We may suspend or terminate your access if you materially breach these Terms, or if we discontinue the service. If we discontinue the service while you hold a paid subscription, you may request a refund of the unused portion through Apple.
 
@@ -123,8 +134,8 @@ If you have a problem, **contact us first** at m.bows@outlook.com. We will try t
 
 ## 13. Governing law
 
-These Terms are governed by the laws of the Province of Quebec and the laws of Canada applicable there. The courts of the judicial district of Montréal have jurisdiction, subject to any mandatory protection available to consumers in their place of residence.
+These Terms are governed by the laws of Canada. Any dispute not resolved under Section 12 is subject to the jurisdiction of the courts of Canada, subject to any mandatory protection available to consumers in their place of residence.
 
 ## 14. Contact
 
-Kasem Kassir · m.bows@outlook.com
+Unscroll · m.bows@outlook.com

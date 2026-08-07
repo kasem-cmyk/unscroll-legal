@@ -4,18 +4,16 @@ title: Privacy Policy
 
 # Privacy Policy — Unscroll
 
-**Last updated:** August 1, 2026
+**Last updated:** August 7, 2026
 **Effective:** August 1, 2026
 
-## 1. Who is responsible for your information
+**By using Unscroll, you agree to the collection and use of information as described in this policy.**
 
-Unscroll is operated by Kasem Kassir, based in Quebec, Canada.
+## 1. Introduction
 
-Under Quebec's *Act respecting the protection of personal information in the private sector* (as amended by Law 25), the person in charge of the protection of personal information is:
+Your privacy matters to Unscroll ("we," "us," or "our"). This policy explains, in plain language, what information we collect when you use the app, why we collect it, and what your choices are.
 
-Kasem Kassir — m.bows@outlook.com
-
-You can contact this person about anything in this policy, including to exercise any of the rights described in Section 9.
+Questions about this policy, or requests to exercise any of the rights described in Section 9, can be sent to: m.bows@outlook.com.
 
 ## 2. What Unscroll is
 
@@ -29,14 +27,16 @@ Unscroll displays the mobile websites of Instagram, TikTok and YouTube inside th
 
 | Data | Why |
 |---|---|
+| First and last name | Collected if you create an account with email and password. If you sign in with Apple or Google instead, we receive the name attached to that account |
 | Email address | To create and identify your account, and to sign you in |
-| Password | Stored only as a cryptographic hash by our authentication provider; we never see or store the password itself |
+| Password | Only if you create an account with email and password, stored as a cryptographic hash by our authentication provider; we never see or store the password itself |
 | Account creation and last sign-in dates | Recorded automatically by the authentication provider |
 
 ### 3.2 Information you provide during onboarding
 
 | Data | Why |
 |---|---|
+| Your age | To enforce the age floor described in Section 10 |
 | Your estimate of how many minutes a day you usually spend on the platform | Used as the baseline for the "time saved" figure |
 | Your goal (reading, sleep, sport, family and friends, personal project, or other) | Used only to phrase the "time recovered for…" message |
 
@@ -63,10 +63,13 @@ We want to be specific, because many apps in this category collect far more:
 - **No analytics, no tracking SDKs, no advertising identifiers, no crash reporting.** The app contains no third-party analytics or advertising code of any kind.
 - **No push notification tokens.** The weekly recap notification is scheduled locally on your device by the operating system. Nothing about it is sent to any server.
 - **No content from your Instagram, TikTok or YouTube account.** We do not collect, transmit or store your messages, posts, followers, viewing history or any other content from those platforms.
-- **No name, phone number, postal address, contacts, photos, precise location or biometric data.**
+- **No phone number, postal address, contacts, photos, precise location or biometric data.** (We do collect your first and last name if you create an account with email and password - see Section 3.1.)
 - **No payment card details.** Purchases are processed by Apple; we never see your payment information.
+- **No automated decision-making or profiling.** We do not use your information to make any automated decision that produces legal or similarly significant effects on you.
 
 **One technical detail we want to be transparent about:** to hide the parts of a page you asked to hide, Unscroll runs a script inside the Instagram, TikTok or YouTube page. That script necessarily reads the structure of the page while it is displayed on your screen. This happens entirely on your device, in real time. Nothing it reads is stored, logged or transmitted anywhere.
+
+**Another one: the camera and microphone permissions.** The app asks for camera and microphone access. This exists only so that Instagram's and TikTok's own in-page features — Stories, and voice messages in direct messages — work inside our in-app browser, exactly as they would in a normal browser tab. That access goes straight to Instagram or TikTok, the same way it would if you used their own app; we do not use it for our own purposes, and we do not receive, store or transmit anything captured through it. You can review or revoke this permission at any time in your device's Settings app, and the corresponding feature will simply stop working.
 
 ## 5. Why we process this information, and on what basis
 
@@ -80,13 +83,14 @@ We rely on your consent, given when you create an account and confirmed by your 
 
 | Recipient | What they receive | Why |
 |---|---|---|
-| **Supabase Inc.** | Everything listed in Section 3.1 to 3.3 | They host our database and authentication. Data is stored in the AWS ca-central-1 region (Montreal, Canada). |
+| **Supabase Inc.** | Everything listed in Section 3.1 to 3.3 | They host our database and authentication. Data is stored in the AWS ca-central-1 region (Canada). |
 | **Apple** | Purchase and subscription events; your name and email if you choose "Sign in with Apple" | Apple processes payments and tells us whether your subscription is active. If you sign in with your Apple ID, Apple shares the name and email you approve so we can create your account. |
+| **Google** | Nothing of yours - the sign-in request itself carries no personal information from you to Google | If you choose "Sign in with Google," Google shares the name and email you approve so we can create your account. Our use of that information follows Google's API Services User Data Policy, including its Limited Use requirements. |
 | **RevenueCat, Inc.** | Your account identifier and subscription status | They manage subscription state on our behalf and tell our server when your subscription starts, renews or ends. |
 
-**Where your information is stored.** Our database is hosted by Supabase Inc. in the AWS `ca-central-1` region, which is located in Montreal, Quebec. **Your information is therefore stored in Canada, in Quebec.**
+**Where your information is stored.** Our database is hosted by Supabase Inc. in the AWS `ca-central-1` region. **Your information is therefore stored in Canada.**
 
-Supabase Inc. is nonetheless a company established in the United States, and its personnel may access the infrastructure from outside Quebec for operational and support purposes. Your information may to that extent be subject to the laws of another jurisdiction. By using Unscroll you consent to this.
+Supabase Inc. is nonetheless a company established in the United States, and its personnel may access the infrastructure from outside Canada for operational and support purposes. Your information may to that extent be subject to the laws of another jurisdiction. By using Unscroll you consent to this.
 
 **Instagram, TikTok and YouTube.** When you use those platforms through Unscroll, you interact with them directly. They collect information about you according to **their own** privacy policies, which we do not control and which apply independently of this one. Unscroll does not send them any information about you beyond what your own browsing generates.
 
@@ -112,7 +116,7 @@ Outside of these, we do not disclose your information to anyone.
 
 No system is perfectly secure, and we cannot guarantee absolute security.
 
-**If a confidentiality incident occurs** that presents a risk of serious injury, we will notify the Commission d'accès à l'information du Québec and the affected users, as Law 25 requires, and keep a register of such incidents.
+**If a confidentiality incident occurs** that presents a real risk of significant harm, we will notify the affected users and any applicable privacy regulator without unreasonable delay, and keep a register of such incidents.
 
 ## 9. Your rights
 
@@ -123,15 +127,19 @@ You may, at any time:
 - **Delete** your account and the information attached to it;
 - **Receive a copy** of the information you provided to us, in a structured, commonly used technological format (portability);
 - **Withdraw your consent** to our processing, which means closing your account;
-- **Complain** to the Commission d'accès à l'information du Québec (cai.gouv.qc.ca) if you believe your rights have not been respected.
+- **Complain** to the Office of the Privacy Commissioner of Canada (priv.gc.ca) if you believe your rights have not been respected.
 
 **To delete your account,** open Settings in the app and tap **Delete account**. This is immediate and permanent: your account and every record attached to it are erased from our database.
 
-For anything else — access, correction, a copy of your data, or a question — email m.bows@outlook.com. We will respond within **30 days**, as required by Law 25.
+For anything else — access, correction, a copy of your data, or a question — email m.bows@outlook.com. We will respond within **30 days**.
 
 ### If you are in the European Economic Area or the United Kingdom (GDPR)
 
-You additionally have the right to **restrict** or **object to** our processing, and to lodge a complaint with your national supervisory authority. Our legal basis for processing is your **consent**, and, for operating the account you paid for, **performance of a contract**. Because our database is hosted outside the EEA, transfers rely on your explicit consent to that transfer.
+You additionally have the right to **restrict** or **object to** our processing, to **data portability**, and to lodge a complaint with your national supervisory authority (for example, your country's data protection authority, or the UK Information Commissioner's Office).
+
+Our legal basis for processing is your **consent**, and, for operating the account you paid for, **performance of a contract**. We do not process any special category ("sensitive") personal information, and, as noted in Section 4, we do not carry out automated decision-making or profiling about you.
+
+Because our database and service providers are located or operate outside the EEA and UK, transfers rely on your explicit consent to that transfer, together with any additional safeguards our service providers have in place, such as the European Commission's Standard Contractual Clauses where their own data processing agreements provide for them.
 
 ### If you are a California resident (CCPA/CPRA)
 
@@ -141,7 +149,7 @@ You have the right to know what personal information we collect, to delete it, t
 
 **Unscroll is not intended for children under 13, and if you are under 13 you are not permitted to use it.** We do not knowingly collect information from anyone under 13. If we learn that an account belongs to someone under 13, we will delete that account and everything attached to it without delay.
 
-If you are 13 or older but below the digital age of consent where you live — 14 in Quebec, and up to 16 in parts of the European Union — you need permission from a parent or guardian to use Unscroll.
+If you are 13 or older but below the digital age of consent where you live — up to 16 in parts of the European Union — you need permission from a parent or guardian to use Unscroll.
 
 If you are a parent or guardian and believe a child under 13 has created an account, contact m.bows@outlook.com and we will remove it.
 
@@ -151,5 +159,5 @@ If we change this policy in a way that affects how we handle your information, w
 
 ## 12. Contact
 
-Kasem Kassir
+Unscroll
 m.bows@outlook.com
