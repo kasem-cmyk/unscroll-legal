@@ -135,7 +135,7 @@ For anything else — access, correction, a copy of your data, or a question —
 
 ### If you are in the European Economic Area or the United Kingdom (GDPR)
 
-You additionally have the right to **restrict** or **object to** our processing, to **data portability**, and to lodge a complaint with your national supervisory authority (for example, your country's data protection authority, or the UK Information Commissioner's Office).
+You additionally have the right to **restrict** or **object to** our processing, to **data portability**.
 
 Our legal basis for processing is your **consent**, and, for operating the account you paid for, **performance of a contract**. We do not process any special category ("sensitive") personal information, and, as noted in Section 4, we do not carry out automated decision-making or profiling about you.
 
